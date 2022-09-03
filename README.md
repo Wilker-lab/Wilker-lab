@@ -1,8 +1,8 @@
 ### Óla!👋
 
+- Apaixonado por desenvolvimento mobile ❤️
 - 🔭 Atualmente trabalho com desenvolvimento mobile android nativo
 - 🌱 Estudando Kotlin e Java
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/wilker-lab">
